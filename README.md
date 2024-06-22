@@ -40,7 +40,7 @@ The integration uses the following technologies:
 v1/hotel-portfolio/
 
 ### Checks hotel availability:
-v1/hotel-availability
+v1/hotel-availability/
 [RQ](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelAvail/RQ.txt)
 [RS](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelAvail/RS.txt)
 ![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelAvail/image.jpg)
@@ -58,20 +58,32 @@ v1/hotel-booking/
 ![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBooking/image.jpg)
 
 ### Cancels bookings:
-v1/hotel-cancelbooking
-[RQ](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBooking/RQ.txt)
-[RS](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBooking/RS.txt)
-![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBooking/image.jpg)
+v1/hotel-cancelbooking/
+[RQ](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelCancel/RQ.txt)
+[RS](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelCancel/RS.txt)
+![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelCancel/image.jpg)
 
 ### Reads booking details:
 v1/hotel-readbooking/
-[RQ](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelReadBook/RQ.txt)
-[RS](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelReadBook/RS.txt)
-![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelReadBook/image.jpg)
+[RQ](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelReadBooking/RQ.txt)
+[RS](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelReadBooking/RS.txt)
+![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelReadBooking/image.jpg)
 
 ### Lists all bookings:
 v1/hotel-bookinglist/
+v1/hotel-readbooking/
+[RQ](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBookingList/RQ.txt)
+[RS](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBookingList/RS.txt)
+![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBookingList/image.jpg)
 
+### Logging module:
+[Error](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/ErrorHandle.jpg)
+[HotelAvailability](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelAvailability.jpg)
+[HotelBookingRules](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelBookingRules.jpg)
+[HotelBooking](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelBooking.jpg)
+[HotelReadBooking](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelReadBooking.jpg)
+[HotelCancel](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelCancel.jpg)
+[HotelBookingList](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelBookingList.jpg)
 
 ## 4. References
 Link from JP API
