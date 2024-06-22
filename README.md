@@ -38,8 +38,12 @@ v1/hotel-portfolio/
 ### Checks hotel availability:
 v1/hotel-availability
 
+
 ### Validate the combination in order to complete the booking flow process:
 v1/hotel-bookingrules/
+[RQ](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelAvail/RQ.txt)
+[RS](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelAvail/RS.txt)
+![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelAvail/image.jpg)
 
 ### Booking confirmation request:
 v1/hotel-booking/
