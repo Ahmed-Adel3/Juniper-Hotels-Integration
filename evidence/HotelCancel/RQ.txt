@@ -1,0 +1,7 @@
+{
+    "CancelRQ": {
+        "Version": "1.1",
+        "Language": "es",
+        "ReservationLocator": "N1Q9QW"
+    }
+}

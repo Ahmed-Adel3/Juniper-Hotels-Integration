@@ -1,0 +1,3259 @@
+{
+    "@Code": "JP046300",
+    "@JPCode": "JP046300",
+    "@JPDCode": "JPD086855",
+    "@BestDeal": "false",
+    "@Type": "HOTEL",
+    "@DestinationZone": "49435",
+    "HotelInfo": {
+        "Name": "Allsun Hotel Pil·larí Playa UAT",
+        "Description": "Situados frente al mar, en el paseo marítimo de la Playa de Palma Inmueble de 204 estudios y apartamentos en constante reforma con recepción, bar-cafetería, videojuegos, billar, gimnasio, sala de tv (antena parabólica) y supermercado.",
+        "Images": {
+            "Image": "https://juniper-uat.bookingengine.es/images/upload_p//hotels/APARTAMENTOS_ALLSUN_PIL-LARI_PLAYA.jpg"
+        },
+        "HotelChain": {
+            "Name": "Juniper Test"
+        },
+        "HotelCategory": {
+            "@Type": "3est",
+            "#text": "3 Estrellas"
+        },
+        "HotelType": {
+            "@Type": "GEN",
+            "#text": "General"
+        },
+        "Label": {
+            "@SortPriority": "0",
+            "@Code": "3",
+            "Description": "Recomendado"
+        },
+        "Address": "Carrer Marbella, 24, 07610 Palma, Islas Baleares, Spain",
+        "Latitude": "39.5264005357401",
+        "Longitude": "2.73455500602722",
+        "TimeInformation": {
+            "CheckTime": {
+                "@CheckIn": "14:00",
+                "@CheckOut": "12:00"
+            }
+        }
+    },
+    "HotelOptions": {
+        "HotelOption": [
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpwXGqxlGz1NLL18l5jcMTjlidrfDvgRFzsj8L0fURFnVd6ocaJuFoBeBxqUjjdvoUCK7ApIwL9aCwxMAfuNBOj7KSu8gJn9PUjw5lbzFIH7RADlG8VVt6W+yov9+NRk4iPxZDsJ8kRmPS6dfc75NPeNZEsd1AT0FdXFAFAkjTonNFOwxQnwNjTv+rZjg/Qz+Stdrw3qd4a/i2B8y7+yXn9YT5M9fPlB7SdFSbSysJY1L8GR81mrF/UZRdRfgAvEoxLA7IL6V0qVmSbgA//+tKm1HmJCbq9aCKBOmmc9D3e+NkgSZUjUmM7LnZle/5KqN2RVZ/FsrrL2ZID+xQYsEsV",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "766.3",
+                            "@Nett": "766.3",
+                            "Service": {
+                                "@Amount": "705"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "61.3"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmqheyJTBLa/IeCQiMyeEXDnp/QyMaGFwq7l1ByRFuACVUPm1HOqye7a0rkeDCN/QCBUXvumaiqlBCVhwTBwmtbjioTyOlytIMup0Y3dAfIMwDaytTmEBh0grsC7GCQVztJbtmAPUj2vmZcPIddWxfeh+sf0zDL+bj6YvcLYaAjKUBE7bAUtTJ4W0jlXI3zjnHw1xLqAf/UyXaYvcfYuu8jff8Tr557PqBRDYo8o1r+2nRqWdmHmrwkyIG0cjZPRiapzb6Z6FsmKApkFcbj/NsCNRpLm35h/StVKj/gjH2VfBB9zYndNCtqVTxUF3o0ZJhT7FMfxaIqvnwPDeU5heRvL",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "MP",
+                    "#text": "Media Pensión"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "815.22",
+                            "@Nett": "815.22",
+                            "Service": {
+                                "@Amount": "750"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "65.22"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmqogWy730sdqQ0oSOaJhfhlaBz37d3PfZz/Kn+CNr2j3po/JlrnPD8lDp4rI/QFo+D6MQZ6SuYv1wy1lC/xTIzBvh/FnXNjLMsJmDZSdEJUd0jm361/3Q+eJGO2N1KC9CCsixUfRxfaaWPvKsYB+lQ7zkV2JYySRUJ5+YMIYirBtjpmfDQCTULwE95EMsd/g5Syzu+AxvXkOmDOXyW4Xo5VGWWQlE++WComW3uDXRqFicxuChBUTELZZBfBTO7s8PfT3JJZ+qvRm3x/h0SWo3U9g7yK+JBspULtvW25ftc/adwWGesa3Vnp2kQWgeQuCZMopRPKLiMfe1b8TLgWqeDb",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "831.52",
+                            "@Nett": "831.52",
+                            "Service": {
+                                "@Amount": "765"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "66.52"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmolnvnHEV6cRvM87iE11N6B9kvKEqYdtWHiXDzpZb5C+C8Ocrq0S6VZXpGTrucwEuB0Wc1kzMHGsaukWwjQZyXsDYpg2D+TbiQqcGb5tzaWtXcgUUte778MJGa3kpkjUMhhuABC53jege4IsXrhhY3k21D0pqlokM//Rwuache/FfyHswltopAIyFomFFz4f2BgozG7geM7WH+FTArWhSqAwur8ThkGr0bGAS1X/kJ9e6xq1B6efgHHsBPKvGRzTfK0HvAz59c/p4NWTl7s4gey/a5B67ucz3WeeUIwfqSSHBVczzKwwnLQ8streZIc0PwLCvyWKB2rQ8wGAXEnZoRC",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "847.83",
+                            "@Nett": "847.83",
+                            "Service": {
+                                "@Amount": "780"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "67.83"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmp7M9FADZ4wXxz7QqlWuFlQFsg28niEBjt7+E1Eox6hM1we68+Fzyor/YjfldryJDD603YYX9ExbfWbW/w8QCgmbUx9MrBdEBtISuUKCMd8QWtf1nvpyOIRtgClmkobLtxMCZQP2bZYPn6S+ge1biKboOlI6DJzGhwa5fcBjj8zpXip2jEIJ598Zv4zhMhQZDskH1qLZg6gFzUMhZqXv5LKaMG4XHWSlcNtZV+qIO7Mf1VPxzSolu9P2QEwm/om2bemVa3RwPRfzDbJQiHYHUwFuataQvOFmzAVjawln0Uic2SrqCXUzDKF1ZuNbmdzaTtBb0MBDqqagoRSqm1hiFwi",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "AD",
+                    "#text": "Alojamiento y Desayuno"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "880.44",
+                            "@Nett": "880.44",
+                            "Service": {
+                                "@Amount": "810"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "70.44"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmp7M9FADZ4wXxz7QqlWuFlQFsg28niEBjt7+E1Eox6hM1we68+Fzyor/YjfldryJDD603YYX9ExbfWbW/w8QCgmbUx9MrBdEBtISuUKCMd8QWtf1nvpyOIRtgClmkobLtxMCZQP2bZYPn6S+ge1biKboOlI6DJzGhwa5fcBjj8zpXip2jEIJ598Zv4zhMhQZDskH1qLZg6gFzUMhZqXv5LKstXQRkqpub3lQJJqCl1ssYRgc6fM6+iIp1NXFO4BrMe0Q3VXqPg0deK0ynrJwfLe4zcInBGbP+L+LYi2OgTmfQEwy/OFMANXLFmrPy75p2Tf57mUqigy7aRq6c+EJg8j",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "MP",
+                    "#text": "Media Pensión"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "880.44",
+                            "@Nett": "880.44",
+                            "Service": {
+                                "@Amount": "810"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "70.44"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmrlcnDAsV53SO80mPInLN3MBArcOByp5LFinJ+rRinT0rPmrQdahOmlY80wjt60GTmWlB2wlaigYW7ASlDTAvnTFIEhlhBAEViOQfVsTIBICZ8cTzWnBfRxac0hJpsjbUYK1ApZuf+DSVh892YARfdrA9hqHYTDEzuI8fJ/rZoacATxqT/xRL1Gr4kRAz5aAQl3aOXhxIVrJ9tRhQOkV4heOhW5CvPFD5GTT2VrkV8Us+6qgXWh6+FOroOss1e2nN8PVf0mwY0BC9uEkE4LPrz2osiGQIRvbmiRH/t5V8Gh5eQYIyZ+/Tcz92Ex/8VE1o4NsK79c78lY0FfJg2Ms9iF",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "MP",
+                    "#text": "Media Pensión"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "913.04",
+                            "@Nett": "913.04",
+                            "Service": {
+                                "@Amount": "840"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "73.04"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmovBGOsoX9mG8UumvDDCNPOUubIx1LtxWF/oUA+n7ksH0G6pr/jtX1fNDIGPKRtpUaxkpBeFousIOYcG0uFmExWxjCdOOu7M3e9TZn3zQaNLQiMbwEQ/H8ICNWwgcVwLcwZs4Rd+ForsTO0zt6B2pRw15juqFk97mWF2iPkMJc3SWwSJE2rPjsCrfPXa9/0kHbRzkwd9xefx63niZKxXXbLljz792HGUZ7VniKM2W/IuAFOV/VF44BIYtuwilqdMSsV7YYKoT5rOMfg5tAwtguidKbb0yPvFgUATHVntD0ussQVJGKvnwwl4KbiBJxTMUCMt75DVY5daFwlNE0PevkK",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "TI",
+                    "#text": "Todo Incluido"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "945.65",
+                            "@Nett": "945.65",
+                            "Service": {
+                                "@Amount": "870"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "75.65"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmovBGOsoX9mG8UumvDDCNPOUubIx1LtxWF/oUA+n7ksH0G6pr/jtX1fNDIGPKRtpUaxkpBeFousIOYcG0uFmExWxjCdOOu7M3e9TZn3zQaNLQiMbwEQ/H8ICNWwgcVwLcwZs4Rd+ForsTO0zt6B2pRw15juqFk97mWF2iPkMJc3SWwSJE2rPjsCrfPXa9/0kHbRzkwd9xefx63niZKxXXbLMtVTLKUbw6J99RSZ4KwQT6/NTMj5aMU/4SC7y2MluXlJSZ/ZK9cCARjnJ5wdDMGDOgY8nN/dY0Omo7vDemhQPn4/phZfDpLZYKVvk3pdJ7hT+VH0knTuX30l0feOYRBz",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "AD",
+                    "#text": "Alojamiento y Desayuno"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "945.65",
+                            "@Nett": "945.65",
+                            "Service": {
+                                "@Amount": "870"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "75.65"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpFRat1NDhBIfHoc1OCS17IcPV5zKsG5ddRMiUxagnJAO2qksO0rZhyH8UT5VwCAo6+osrfInpjTWPkwU1zlRx42p3RWRuycVBxSGeGUPpFyFVIYqQ0XUbLBkI8vEKQbYrsHJP+H6WkKSovz0EDoWXklEzSNuUPFdnu3mcwqb+rb1app/qQcnWkEikoY5/6Pn7/S4aiWDSuKW+ggEHmrzZZKrmDn0A1UYpRmv9t5jqNZ55if0Ff37yFRYXA7M+VYqMWMm1RxIynoWIh1y1+x5NYhJeC/VjzzzXtz90dtgj+8Bg63mwN8m0MLiD95HyTUDH3QlKh/mfZFa0/chVfyiXT",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "AD",
+                    "#text": "Alojamiento y Desayuno"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "978.26",
+                            "@Nett": "978.26",
+                            "Service": {
+                                "@Amount": "900"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "78.26"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpFRat1NDhBIfHoc1OCS17IcPV5zKsG5ddRMiUxagnJAO2qksO0rZhyH8UT5VwCAo6+osrfInpjTWPkwU1zlRx42p3RWRuycVBxSGeGUPpFyFVIYqQ0XUbLBkI8vEKQbYrsHJP+H6WkKSovz0EDoWXklEzSNuUPFdnu3mcwqb+rb1app/qQcnWkEikoY5/6Pn7/S4aiWDSuKW+ggEHmrzZZL/x4MMeVOFLxEJEjLzdGblHmPZJ3xu/ZvgrB4glNWL5sTAEiLjby/k7vU7buJfaNWs70Me7WIgjwAzd5W5i2jo9VV68EwXdW2Z5a72mTcIPHRBtJmvDSigI0oA6iBxyZ",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "978.26",
+                            "@Nett": "978.26",
+                            "Service": {
+                                "@Amount": "900"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "78.26"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmqK628/Sb3SfbWFWe/p54wLtVUzDnrUNEI0xAaTQr5kmryY9waKB4Cb2JGipZwdQF8Z0h+2QclZMUTMiHarzLEQ4ZJFNv5nGJn4XfMcT4DUKgEpioyCvOH7/Nm0Tp1rFDp02+O5cjTg+r66CK3B4Cf3KIpSNODkK3DKMua8BoDmYcRg09/3yl9SuR2xmznIH1ZbjqZA1l+4T1gIFR2u8DXUGfYlRXAffH16hKqNgVHAShCiKFI7J41XH3m/71VGo7i2nytX7SqFD79eE11xcf6PUR7XxABsWCiciAjwrJTxXlfVD4d9GHkRP/nLsjeHXi7SiZOicLvmgJNaa8d0+EDm",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "TI",
+                    "#text": "Todo Incluido"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "1010.87",
+                            "@Nett": "1010.87",
+                            "Service": {
+                                "@Amount": "930"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "80.87"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmrfziqQiCSYVBalcbVExN3vqn6pHVcBE84Shj6UdmtdYMmvQ+6CknypSQPXSSFb64VMfvjFrH3q+tKw56rO3opnU54Z2rm4+pIM8fcwVnWx5BM/WoRHoebTYGb+DSskLgG/IxcOSRcGkCYCjPZNGreeF4EQzlBimTl2Ut2usI8kW68ZQCeoumuWFSQKnspgDLHPwMPGZpj1ScvAsNzZwl/0MRQH0XcsnRnYGg706e6uclQbTv5vmaFNKOX9cnd/c7cdO68G+t8P+CD4HQ6ULpj4pCNqq317JUeG8cz60xXGyArrjnEyWCatfVzVbj5xCuzX72bUbPCpk+l0eNBux8V9",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "TI",
+                    "#text": "Todo Incluido"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "1043.48",
+                            "@Nett": "1043.48",
+                            "Service": {
+                                "@Amount": "960"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "83.48"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmrfziqQiCSYVBalcbVExN3vqn6pHVcBE84Shj6UdmtdYMmvQ+6CknypSQPXSSFb64VMfvjFrH3q+tKw56rO3opnU54Z2rm4+pIM8fcwVnWx5BM/WoRHoebTYGb+DSskLgG/IxcOSRcGkCYCjPZNGreeF4EQzlBimTl2Ut2usI8kW68ZQCeoumuWFSQKnspgDLHPwMPGZpj1ScvAsNzZwl/0gpo88uLRSMaQbAttHH57Xt6mq+jLW8fdSXmsjyxIJo66behhDVt05RNh8K+65T0zpJiRF5BVW9iayJa6MPNYGBhpo0WFGDKx8nuWwe+h55ZqFC/BHuT2xhRvjvMhhGoK",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "MP",
+                    "#text": "Media Pensión"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "1043.48",
+                            "@Nett": "1043.48",
+                            "Service": {
+                                "@Amount": "960"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "83.48"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmoTUeTahqQ+AbkKUjile2QqtTWNreBxn48a/2eQmR2fMO9wDuSBjJ4wRkMfgYfGijBwZe7BfjIBYod6+r/QdHvcX8CC/AwrmLyJ1wG13vLakko8fLDamsWsLUixHn5p15Wf0Ai3PeRPYCFLL7vZfAWWTaQ4r9yP9WN5Cy/leqsGPENJGvqMHfuNvqJGO/Ykg/vf8GV4FSKRctjbeqAgNQOha38llsQy1AUi0WRB1HD0IGv+3GEDyPEpX7SabID752b3ov9dXAHLGLmz1Db9DEKxO914SHjohb8yO03l1Aa0rvj+cv4pOZJ3BFPMiJHyyucI1q7zqCLNAlfriBe9qFEK",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "765.78",
+                            "@Gross": "1076.09",
+                            "@Nett": "1076.09",
+                            "Service": {
+                                "@Amount": "990"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "86.09"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpcq+ZIYsoiIGCHeHN9ISNhg2vfD0jrniOebAB3ZHLUhCvyzJEfvmuTGZtz6ZMgCXQZa6xnlcHeGIyxoi0XQAEtWurFbRM24seID1U9opT9npV+ttfUJ8Ix6OTg1uzTRLBLb0HQgyyY3yRPhtnxMH+mkUYEJ6Bp5dxYm4znCmJOyDjfcx5P6MmTPXSgdFdhUU+RR9ZBbj1STpjMq+EoFj609C/xPdTffyHxYgnBn4NDF94LbfhpmETjBHPXc0+h2OJrzgsagnOmUNXtpuHshsXIHzDQqC6Mc+Mq7/RryI26+SzB3lQztGwdssd9xUicqr3KltuhrIMkMYakhvbUdFVT",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "AD",
+                    "#text": "Alojamiento y Desayuno"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "1108.7",
+                            "@Nett": "1108.7",
+                            "Service": {
+                                "@Amount": "1020"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "88.7"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmrrQRVr7t0/CPi7cUf7D1Fg4+0gRvIrBZfQFHDpRQ1zqq8tRNrlFB+lnioyYG8YedyX0dalQU3UkzRZJBarXdEc1QLJonCnlf6xfJj/phxGBsO1bZZxbSRG9DaJ+dSAfoMDGzUz9xWah4gYZWoPwhhlxQj8CgeAEblhckUFWRiQmslNL6CP0WlIqRHc6JdXSFIix361ia1U7OlLS0EqJBk6irCg0X7DOM8Me1++iU1CHUCzU1Caq+eTdgooKBMhmLGEzn0KNOBl15K4iTEJ7SU4qCARlL3sMRi3NVJZpdwJYTXHCd142uAKw7IQ2iXM4yflYZ7/meI+5YPlrSPfg1aG",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "TI",
+                    "#text": "Todo Incluido"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "1173.91",
+                            "@Nett": "1173.91",
+                            "Service": {
+                                "@Amount": "1080"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "93.91"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpKzU450nQHIQ6grUsiRX2hauUihcwr0VpHtcf9Ptreof7J3haIMTPljs1Z3eGxCjZ3KtQYqVmeVnhQlxig0yosYS2Bk0ipv8zv//ubQ0FLM3D4tQaIR7wCMVnlnW5fSFiIAQpKGH97oq8OBIHkSAZ+IxreeWlphis60FkmB89+njScLr2DhVK+cWEEWtzu0CR9rXhm+llv020u/UG84vVKB1+aHzzXc+nirAZVSATAGXauvvMkWyzDagt6WC6T5sLlqhJOb76oY+FT3Q4n2wPXJyXqIGTqkDxY7IQ+cJbpagAyyxYWKc6G0tVnLyc+a1Kwiw8vbUEgQFm8HPIg2Xo0o1iPRos6h/2YQCvrUmRyiw==",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "AD",
+                    "#text": "Alojamiento y Desayuno"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "925.17",
+                            "@Gross": "1278.59",
+                            "@Nett": "1278.59",
+                            "Service": {
+                                "@Amount": "1176.3"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "102.29"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320710",
+                            "@OnlyResidents": "false",
+                            "Name": "Alojamiento y Desayuno"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmqOg8Ph0H12IljD4sGftzZubWG/QouYx7mTmVJ31c/JLrFa3sXXju8EebzluhlQircH1d35JSGtX/KrTYs0vP1UBiRZcs/t4uwuF/pkym5YhgsxbM0Tu1Y76lcB9Fr8Viy6epHgPAohCwVLiYEP38lvtjZ4gPSsZygUJat3wU5ak0xLWqxTYAw1Hzfizs7TUSGKtE50f/IemEhS5mfRzX8Dc9MXndfYhVlo6nBc1AlXqepqUHqDNabRZvwqfsl6M4JFwwNlGP87z+fLDf8gVDQtR55phoMC8UNUKpBH1NYyM7XEHSrYUKGJHmWkMS5HAqr2JYkfDPuqoX62TK7/Cjm6PeWp3gDRRv73TWynhw2fVA==",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "MP",
+                    "#text": "Media Pensión"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "999.91",
+                            "@Gross": "1314.65",
+                            "@Nett": "1314.65",
+                            "Service": {
+                                "@Amount": "1209.48"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "105.17"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320711",
+                            "@OnlyResidents": "false",
+                            "Name": "Media Pensión"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmokZwVFtQfOd70WrAv8PM6opmF4jnzVc7a1h93vINoXZicBxuAP9WWJHwr3y28LF21bGfAuuJCTfaTNoXsYr0hgji9wd27v677AzznRZiqnuU5pjZzq5t9rUmvYKyKqKu3P/DxxCL+ePPtwim71HvtVFpGuySXNBt1bWQzTflGQP27QS8kEiBCjdn2RwN1NrSTNSYTc13bNnYwWLxXDkTPAkClu3dlL9Xa509cWd35Xe8l+fULfuNG26QmENh7KxtIYcXe+WuttkUngEIGwaC/+nhd1FYpPU9iVBvw0zOouX+BUilPUWumPHJ+mpY83y94ocSPufZWN+0NgWofcFTkq9q1jD2Ep3V0XMiCTy/tAyA==",
+                "@Status": "OK",
+                "@NonRefundable": "true",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "TI",
+                    "#text": "Todo Incluido"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "1082.09",
+                            "@Gross": "1448.54",
+                            "@Nett": "1448.54",
+                            "Service": {
+                                "@Amount": "1332.66"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "115.88"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-06-22"
+                    },
+                    "Description": "No reembolsable",
+                    "PolicyRules": {
+                        "Rule": {
+                            "@From": "0",
+                            "@DateFrom": "2024-06-22",
+                            "@DateFromHour": "00:00",
+                            "@Type": "R",
+                            "@FixedPrice": "0",
+                            "@PercentPrice": "100",
+                            "@Nights": "0",
+                            "@ApplicationTypeNights": "Average"
+                        }
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320709",
+                            "@OnlyResidents": "false",
+                            "Name": "Todo Incluido"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpFgDVDNWHcUaOrI1L9GEvEQ4PFnzICsP/tl6wiLiyw1tN1xlu4sWq12269uhQPG0X6VFkTc8ad+X0zCMXUY0Dwe52TPqVk1545Z6JLVWiAVDyPP/LdqJyBX5KkhrAGQGf1eKJiSa320iiS++0EWkSyDCxTMs3p1Prftj6L1t0KXXztV/OaB3AKba8uu3/Im6NrLl+kI9vAc67KgSx+Ud5lrcjlqtnLyvA+LAwzPzx0jkE04xaALVvgSCuFYvxE5FT9ehee2MHWD/rSk7ZMVT91j+kQgDLG47kv7jqKvSNScrI1SpPhNK5XdV3lgOcLFPDnBT9KRzQKO/w044pHvbx2",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "1650.52",
+                            "@Gross": "1467.39",
+                            "@Nett": "1467.39",
+                            "Service": {
+                                "@Amount": "1350"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "117.39"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmp1QR6Bu7opKU/9vB/pZiesRw5EjJUIBw7Ifc8TOPnHx50DiozL4mrIElAIpbTiwO9vypYiMYxJgltKY3Lyn0wQnvXo3D5smTVJlAlrxrwHGLmsloTKf5OV+PNoD0qrhDGi/28AdTSUWeqiLZ2neiw579wnd0jyU26LPGX2ArPHwUBvWe+sNlyLjT6c10QeAryrUtSbL59F/w6WxDgtB/a6OndNwo3eMdhhQfWrNp8C6P0+PGLjXtebWdGfIfwYrNC01FZiYSsyzWswBUG1PISmodDOanCaY2mdJOcPy8eutN9NmnXRMDSZpm7EJGbkhIH+5Vv7GSGcNtJ3kOppKbfT",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "1833.91",
+                            "@Gross": "1630.44",
+                            "@Nett": "1630.44",
+                            "Service": {
+                                "@Amount": "1500"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "130.44"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmropvD30d5iJ40wZ5QwsWRSjyMkuMy8kgNoFZgk5f/MQ4cikjmDEg6Agvi8qrvgXO97ew0Hye0B3fod9DjAwUp20vylirpzszpSdsscMgn4vn/OgaYhOBM+sHFGdlLNNSVyro67Fr3D3ErSEwkSjofwlFufXla+rLeF5WPij2CsmSQ9pjKQm9/hhHuhzwwMD3ptyRC1/H48FfGLNacHwp/UNkHvAAFsdBn00GIQTZV0op0VJ/RL5dIrEqlNMe7D07vU7QkjwGP7Sy+5Tcx5JgezbTUKb58vWEVMesy+Iywo1jBj95SeqG/fogshfHAXWBKp/MIkhuKutG3j5JFHttq/",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "AD",
+                    "#text": "Alojamiento y Desayuno"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "2036.61",
+                            "@Gross": "1810.6",
+                            "@Nett": "1810.6",
+                            "Service": {
+                                "@Amount": "1665.75"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "144.85"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320710",
+                            "@OnlyResidents": "false",
+                            "Name": "Alojamiento y Desayuno"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmp4LyeW2Dh7CV5fAXtoo6+HrBc5iHkoUfAbNC96bMyhxDwL8SPBX2jlqCsGrQnbE598s6xFcnjl8rfYVoI8nexhTPKFq5DLRQyBqGOELsVWBvNM2pnNcC1dWZPrrSpRA6THoxwpNcPnHaGMg6OqJo3qwIHExhbMSNfIB159AkQucHV6dM8RYIifhnZNZZGolP3sn9mVj4YHJQWnA+DvgVxp3A5tJ3/bmpR7BJeEGMhRZBQYhU/+8jk0BR2GXBTYWoAvUsILVZxGkd28/G/yjX2FoAgZBmAsm6asY8cRNX4RDpj8A8jBvpX3Mbx8WHkTZjMIWLixVOQ6inpaBJzYLxLYhMCmsyKu/oCO4v70a//UBQ==",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "AD",
+                    "#text": "Alojamiento y Desayuno"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "2220",
+                            "@Gross": "1973.64",
+                            "@Nett": "1973.64",
+                            "Service": {
+                                "@Amount": "1815.75"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "157.89"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320710",
+                            "@OnlyResidents": "false",
+                            "Name": "Alojamiento y Desayuno"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpB2JmWZi04A2RjdqrILeMbzcUjmk90YJIXt8SOB9g2o9X2nIF0v8PzZn9gwdUkV011oTQMF+QD4eVEsMzwlqMzDUDQWu0Tko2Ng+jWKbxbCwnxQ+iF1EW/2R2sM5UWTpcspTHrT3sZc9NasN4TVVgNj211BBw3XVH8B/WGYy522Ts/ObMQQcvR6ibQxxd4AKB65lU2q7dDp1JVHJnrQsNpMFu/1Aow/rSTGf//8kb7wTVhce0MoU3ShoMb1D4J7gAmXASJJFH1YkXbZGlEbZEDFdxXmM5x2oy0KSz/8mlmCUYt60WLCGUaJ1JAsKyEcvXZVoDcd9ouHA4PGDoylIDC",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "MP",
+                    "#text": "Media Pensión"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "2229.65",
+                            "@Gross": "1982.28",
+                            "@Nett": "1982.28",
+                            "Service": {
+                                "@Amount": "1823.7"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "158.58"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320711",
+                            "@OnlyResidents": "false",
+                            "Name": "Media Pensión"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmrCaULxL6Y9na/0ox0fuqpalke11ENDZKHwlChDQp/WcS3aY/qfOVgOsmr0ywOlBHGhBrtirPcgjUgqTxqaZ7NfXDd3Ho86KVERmo3q5qZ+QjLSgbwEoRBJOeXJSnP/DPLDTkIqehXY8rQszO5Q+MxgqjQMKkLB/W4YoIRraSA82Zp9QX4NSjHigsRz5Q0TTS/eaO12Sh70rDpJ9Ck0Jm3q8iiPVJ33eFv3bmA1hh/YwH3TA/8YxFkabz17i3DzIGdn/PeC+HmqqgsrwC3BPcC8Bzz6uJhmyClMw0eH8dgsvRW3Hb109ohzxYPPc+a+JXxUzcJmyXyayc7YrgaMaezR",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "MP",
+                    "#text": "Media Pensión"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "2413.04",
+                            "@Gross": "2145.33",
+                            "@Nett": "2145.33",
+                            "Service": {
+                                "@Amount": "1973.7"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "171.63"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320711",
+                            "@OnlyResidents": "false",
+                            "Name": "Media Pensión"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmq7ZNXlq8m1CLyGqivgBu/s+DXFF9XbDPu+KhvbrlVY2AhYoGUg8aAXIS5xr6xsnF2raR2gq+6iYDnLUn4dsw+OwzVAR3xxMFnpeKOx9DqiK0xY/pw818naMVRUDgPeG3EYslCHvk+rEpxPyByaZ1DCxAa7HR+65DCM5qkzIcFCZGesCF21Q6K1lHye8e2lc83i3yqeUEzz/tfTrXfzJiUgJPjhLMinHC7vZ0xX9r6MDCoRYnc2GGDREfqSeWa5QEY2369NxrtQWXF2GaSryQSOh+YyB2oT85tt8EEo75oXidc2Jq55GNvL4NGZyKnXIIuE2zPGd5RD8GZ6IG3Uej+x",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "TI",
+                    "#text": "Todo Incluido"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "2422.7",
+                            "@Gross": "2153.97",
+                            "@Nett": "2153.97",
+                            "Service": {
+                                "@Amount": "1981.65"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "172.32"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320709",
+                            "@OnlyResidents": "false",
+                            "Name": "Todo Incluido"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            },
+            {
+                "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpN91MYUkLSnrLMO+tHQAfbJQtJQxB98jd7ih49W9Td3XcFKVdUHV5vXE6RFIMPZGRAIIL0bNgkHn6mak+zcI+9v/yvC1mJP0A4cRZm9ScuW2io2kzy59GxyUh+bHLTy3+vjzKEFr18VQmk+Z8AxwwfjscCZL5sBVzOylAd4oTpIvc0ehAe3aXLkmDqfsaYAKLpiOepJkJe+jbuhwwSFmtZzV9E17ZRZXMzHVFK8sxyXg8rH8NJijG4L12d06dM+1m274N4ixg6pvTEthpaM2/AniK1V3iyC4gtDCgEKC84cEFhIjjuuHy21qrE6lzpa8z8tWw5+2gnvKsLH/dBCbY+ViTWWT+o+7yLC5iuyeM61Q==",
+                "@Status": "OK",
+                "@NonRefundable": "false",
+                "@PackageContract": "false",
+                "Board": {
+                    "@Type": "TI",
+                    "#text": "Todo Incluido"
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Recommended": "2606.09",
+                            "@Gross": "2317.01",
+                            "@Nett": "2317.01",
+                            "Service": {
+                                "@Amount": "2131.65"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "185.36"
+                            }
+                        }
+                    }
+                },
+                "CancellationPolicy": {
+                    "@CurrencyCode": "USD",
+                    "@Type": "S",
+                    "FirstDayCostCancellation": {
+                        "@Hour": "00:00",
+                        "#text": "2024-08-09"
+                    },
+                    "Description": "<div><strong>Valor ES</strong></div><div>&nbsp;</div><div><span style=\"color: red;\">Puede Aceptar</span> <span style=\"background-color: yellow;\">Codigo HTML</span>&nbsp;</div>",
+                    "PolicyRules": {
+                        "Rule": [
+                            {
+                                "@From": "0",
+                                "@To": "3",
+                                "@DateFrom": "2024-08-13",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-17",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "100",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "4",
+                                "@To": "7",
+                                "@DateFrom": "2024-08-09",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-13",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "25",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            },
+                            {
+                                "@From": "8",
+                                "@DateFrom": "2024-06-22",
+                                "@DateFromHour": "00:00",
+                                "@DateTo": "2024-08-09",
+                                "@DateToHour": "00:00",
+                                "@Type": "V",
+                                "@FixedPrice": "0",
+                                "@PercentPrice": "0",
+                                "@Nights": "0",
+                                "@ApplicationTypeNights": "Average"
+                            }
+                        ]
+                    }
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "796",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "795",
+                            "Name": "Triple",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "AdditionalElements": {
+                    "HotelSupplements": {
+                        "HotelSupplement": {
+                            "@Code": "320709",
+                            "@OnlyResidents": "false",
+                            "Name": "Todo Incluido"
+                        }
+                    },
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@Category": "GEN",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,291 @@
+{
+    "HotelOptions": {
+        "HotelOption": {
+            "@Status": "OK",
+            "BookingCode": {
+                "@ExpirationDate": "2024-06-22T00:34:38.3649068+02:00",
+                "#text": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpwXGqxlGz1NLL18l5jcMTjlidrfDvgRFzsj8L0fURFnVd6ocaJuFoBeBxqUjjdvoUCK7ApIwL9aCwxMAfuNBOjIzNSp7uKIHcsvT+1Kq14LcjPmMN2w6oq7eUAPLNyeKsOCGfEGyodZ1lStAj3hmLSvkzjbMBQmnnWQ1PHv/nXG1aNFf982+RFvSsLSp/bZ3VRrfTlQaKmo5Qk71bULoQSm1zKfKrWKJVNV9rE6PtTh1H+u8a8l3S2zBeZNmoJm6x1nJSQQ1y00bE+Tg9byVqqzZDlj84maCLVnSgeHRmCsy7a18Xp2o+odYAr/ophLES4+Q0PvJa2luZ0pomfhD0wKAbz5NvAGJGH8qO7sY4pu1rIBuyOlGrZuylQ0oxWOIfzigztVw1iWpAMz/Zv9gHz"
+            },
+            "HotelRequiredFields": {
+                "HotelBooking": {
+                    "Paxes": {
+                        "Pax": [
+                            {
+                                "@IdPax": "1",
+                                "Name": "Holder Name",
+                                "Surname": "Holder Surname",
+                                "Age": "25"
+                            },
+                            {
+                                "@IdPax": "2",
+                                "Age": "25"
+                            },
+                            {
+                                "@IdPax": "3",
+                                "Age": "5"
+                            },
+                            {
+                                "@IdPax": "4",
+                                "Age": "30"
+                            },
+                            {
+                                "@IdPax": "5",
+                                "Age": "6"
+                            }
+                        ]
+                    },
+                    "Holder": {
+                        "RelPax": {
+                            "@IdPax": "1"
+                        }
+                    },
+                    "Elements": {
+                        "HotelElement": {
+                            "BookingCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpwXGqxlGz1NLL18l5jcMTjlidrfDvgRFzsj8L0fURFnVd6ocaJuFoBeBxqUjjdvoUCK7ApIwL9aCwxMAfuNBOjIzNSp7uKIHcsvT+1Kq14LcjPmMN2w6oq7eUAPLNyeKsOCGfEGyodZ1lStAj3hmLSvkzjbMBQmnnWQ1PHv/nXG1aNFf982+RFvSsLSp/bZ3VRrfTlQaKmo5Qk71bULoQSm1zKfKrWKJVNV9rE6PtTh1H+u8a8l3S2zBeZNmoJm6x1nJSQQ1y00bE+Tg9byVqqzZDlj84maCLVnSgeHRmCsy7a18Xp2o+odYAr/ophLES4+Q0PvJa2luZ0pomfhD0wKAbz5NvAGJGH8qO7sY4pu1rIBuyOlGrZuylQ0oxWOIfzigztVw1iWpAMz/Zv9gHz",
+                            "RelPaxesDist": {
+                                "RelPaxDist": [
+                                    {
+                                        "RelPaxes": {
+                                            "RelPax": [
+                                                {
+                                                    "@IdPax": "1"
+                                                },
+                                                {
+                                                    "@IdPax": "2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "RelPaxes": {
+                                            "RelPax": [
+                                                {
+                                                    "@IdPax": "3"
+                                                },
+                                                {
+                                                    "@IdPax": "4"
+                                                },
+                                                {
+                                                    "@IdPax": "5"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "HotelBookingInfo": {
+                                "@Start": "2024-08-16",
+                                "@End": "2024-08-19",
+                                "Price": {
+                                    "PriceRange": {
+                                        "@Minimum": "727.98",
+                                        "@Maximum": "804.62",
+                                        "@Currency": "USD"
+                                    }
+                                },
+                                "HotelCode": "JP046300"
+                            }
+                        }
+                    }
+                }
+            },
+            "CancellationPolicy": {
+                "@CurrencyCode": "USD",
+                "@Type": "S",
+                "FirstDayCostCancellation": {
+                    "@Hour": "00:00",
+                    "#text": "2024-06-22"
+                },
+                "Description": "No reembolsable",
+                "PolicyRules": {
+                    "Rule": {
+                        "@From": "0",
+                        "@DateFrom": "2024-06-22",
+                        "@DateFromHour": "00:00",
+                        "@Type": "R",
+                        "@FixedPrice": "0",
+                        "@PercentPrice": "100",
+                        "@Nights": "0",
+                        "@ApplicationTypeNights": "Average"
+                    }
+                }
+            },
+            "PriceInformation": {
+                "Board": {
+                    "@Type": "SA",
+                    "#text": "Sólo Alojamiento"
+                },
+                "HotelRooms": {
+                    "HotelRoom": [
+                        {
+                            "@Units": "1",
+                            "@Source": "1",
+                            "@AvailRooms": "786",
+                            "Name": "Double",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "2",
+                                "@MaxOccupancy": "2",
+                                "@Adults": "2",
+                                "@Children": "0"
+                            }
+                        },
+                        {
+                            "@Units": "1",
+                            "@Source": "2",
+                            "@AvailRooms": "796",
+                            "Name": "Habitación No Reembolsable",
+                            "RoomCategory": {
+                                "@Type": "4",
+                                "#text": "Standard"
+                            },
+                            "RoomOccupancy": {
+                                "@Occupancy": "3",
+                                "@MaxOccupancy": "5",
+                                "@Adults": "1",
+                                "@Children": "2"
+                            }
+                        }
+                    ]
+                },
+                "Prices": {
+                    "Price": {
+                        "@Type": "S",
+                        "@Currency": "USD",
+                        "TotalFixAmounts": {
+                            "@Gross": "766.3",
+                            "@Nett": "766.3",
+                            "Service": {
+                                "@Amount": "705"
+                            },
+                            "ServiceTaxes": {
+                                "@Included": "false",
+                                "@Amount": "61.3"
+                            }
+                        }
+                    }
+                },
+                "AdditionalElements": {
+                    "HotelOffers": {
+                        "HotelOffer": {
+                            "@Code": "323059",
+                            "@OnlyResidents": "false",
+                            "Name": "Test Offer (default)",
+                            "Description": "La oferta puede contener condiciones adicionales aqui"
+                        }
+                    }
+                },
+                "HotelContent": {
+                    "@Code": "JP046300",
+                    "HotelName": "Allsun Hotel Pil·larí Playa UAT",
+                    "Zone": {
+                        "@JPDCode": "JPD086855",
+                        "@Code": "49435"
+                    },
+                    "HotelCategory": {
+                        "@Type": "3est",
+                        "#text": "3 Estrellas"
+                    },
+                    "HotelType": {
+                        "@Type": "GEN",
+                        "#text": "General"
+                    },
+                    "Label": {
+                        "@SortPriority": "0",
+                        "@Code": "3",
+                        "Description": "Recomendado"
+                    },
+                    "Address": {
+                        "Address": "Carrer Marbella, 24, 07610 Palma, Islas Baleares, Spain",
+                        "Latitude": "39.5264005357401",
+                        "Longitude": "2.73455500602722"
+                    }
+                }
+            },
+            "OptionalElements": {
+                "Comments": {
+                    "Comment": {
+                        "@Type": "HOT",
+                        "#text": "* 13/06/2018 - 31/12/2030: Please note that on this field hotels have the possibility of supplying you with important information like:<br><br>- Additional taxes (like, for example, a city tax).<br>- Additional features (like, for example, a detailed explanation of a promotion)<br>- Additional warnings (like, for example, the pool being closed due to renovations)<br>- Additional information (like, for example, the emergency phone)<br><br>Among other examples.<br>"
+                    }
+                },
+                "HotelSupplements": {
+                    "HotelSupplement": [
+                        {
+                            "@Code": "321956",
+                            "@Type": "O",
+                            "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpqLV9r76TgmxdpKOXhR8owqSa3Ij7JZYqPM2yYUUAY+S8Et6R1/W578HwWLzXD2CM7Tuf8zAbwMN42L3KKhXOuIQRduC2PQPpESvu9BC3Pxtig4VYSyL47KvVUXRNMpvyRs408dq9Wz810Be8lgRdUjXgeMtRT1XBf5QdMC7+0aWigDTk4gVT4j3Dm7HoQw2x5xmCvugouyALbfupXJ4Q5/LZWdUVDI0HgFjTZdEJn8wmWQWjzMz6wllSSCDADO59qTJfd8GQIPPMBHJYyx7F0PkirFKPfiH263Tce/i44/WwslBlID+Ua2rTxMTOGDdbU5Vd9pqCGb0aZIGfV0prMf+IswU+9gZRFPjt/m/5OIyohvIRtyUzHfplZjAm0zfU=",
+                            "Name": "Test Supplement Opcional",
+                            "Prices": {
+                                "Price": {
+                                    "@Type": "S",
+                                    "@Currency": "USD",
+                                    "TotalFixAmounts": {
+                                        "@Gross": "927.65",
+                                        "@Nett": "927.65",
+                                        "Service": {
+                                            "@Amount": "853.44"
+                                        },
+                                        "ServiceTaxes": {
+                                            "@Included": "false",
+                                            "@Amount": "74.21"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@Code": "323066",
+                            "@Type": "O",
+                            "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmqrfJa+/yNAXIor0w/8G7dHBlkzN9D51vLL3EIh7m7+5Uq8S8dlXjksBuyya0OncL6bmzXQwhH1nhGY/H+V0JWz8z6MKBNDRUvfD1lTLMnjbgPtxMDSDePBduFW8ueIfLM8gRrFjW8d0IUOuDFh9w+b9YpbhAiPXJpBxOkQo++cCrqaHSKiAv7vleovTdOvIwSDBZzPLa7MkRcHy9A+L7hX8LpgXeczaWl9zpGkYEEaVG99Slp2n9dUDmqXoWwHD4A5mepIJGzcgIGzf/HqDRNDl7dyqwn8MQakZYPAE7xbFl7okjicHNPAif0W34ptmbUgDGgoi75rpnRQPDYWrlQNGljTE967UG+2K1bmTN4uIVouwZQWLRHLx+0adZsnEPA=",
+                            "Name": "Test Supplement Opcional 2",
+                            "Prices": {
+                                "Price": {
+                                    "@Type": "S",
+                                    "@Currency": "USD",
+                                    "TotalFixAmounts": {
+                                        "@Gross": "887.31",
+                                        "@Nett": "887.31",
+                                        "Service": {
+                                            "@Amount": "816.33"
+                                        },
+                                        "ServiceTaxes": {
+                                            "@Included": "false",
+                                            "@Amount": "70.98"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@Code": "323067",
+                            "@Type": "O",
+                            "@RatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmruo1LHxAHVjPnMrOD+INzIUl49COj41ozUw7zUpsKEEOSOfx0dH0RdbnL6KzTv43NRjuE7kUJnHIb9h+LOxikeaez5QonAa8+y0SkR+BZS/e7h5DwKjT+h8OBL8CBuGi2jQPoxg7kAzLAJqMjaXT67l+aHerXdYDCoTsTGGwuwSkpex6u80nNPUGX/mnjq9aGN7SUucy420gScQ8kzZTi2H15h8poGBg8kQUawA6TbNIUCxwAJb1IOHMksKpFCim9oYp2daebM0lBEVc+LJpGPu04q2ovKrCPld2O9LKwcD5J9hjjcCSMmhRYMpV/sDwiGemNpmnZ4AX+xF+PnXKKmIKeWwZK88mVDeOFmv3ZbySNr3wW6kNpz0Shn5N9mXKI=",
+                            "Name": "Test Supplement Opcional 3",
+                            "Prices": {
+                                "Price": {
+                                    "@Type": "S",
+                                    "@Currency": "USD",
+                                    "TotalFixAmounts": {
+                                        "@Gross": "855.52",
+                                        "@Nett": "855.52",
+                                        "Service": {
+                                            "@Amount": "787.08"
+                                        },
+                                        "ServiceTaxes": {
+                                            "@Included": "false",
+                                            "@Amount": "68.44"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

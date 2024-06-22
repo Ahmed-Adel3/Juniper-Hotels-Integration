@@ -1,0 +1,84 @@
+{
+    "HotelAvailRQ": {
+        "Version": "1.1",
+        "Language": "es",
+        "Paxes": {
+            "Pax": [
+                {
+                    "IdPax": 1,
+                    "Age": 25                    
+                },
+                {
+                    "IdPax": 2,
+                    "Age": 25
+                },
+                {
+                    "IdPax": 3,
+                    "Age": 5
+                },
+                {
+                    "IdPax": 4,
+                    "Age": 30
+                },
+                {
+                    "IdPax": 5,
+                    "Age": 6
+                }
+            ]
+        },
+        "HotelRequest": {
+            "SearchSegmentsHotels": {
+                "SearchSegmentHotels": {
+                    "Start": "2024-08-16",
+                    "End": "2024-08-19"
+                },
+                "CountryOfResidence": "MX",
+                "HotelCodes": {
+                    "HotelCode": [
+                        "JP843923",
+                        "JP793605",
+                        "JP046300"
+                    ]
+                }
+            },
+            "RelPaxesDist": {
+                "RelPaxDist": [
+                    {
+                        "RelPaxes": {
+                            "RelPax": [
+                                {
+                                    "IdPax": 1
+                                },
+                                {
+                                    "IdPax": 2
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "RelPaxes": {
+                            "RelPax": [
+                                {
+                                    "IdPax": 3
+                                },
+                                {
+                                    "IdPax": 4
+                                },
+                                {
+                                    "IdPax": 5
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "AdvancedOptions": {
+            "ShowHotelInfo": true,
+            "ShowCancellationPolicies": true,
+            "ShowOnlyAvailable": true,
+            "UseCurrency": "USD",
+            "TimeOut": "8000"
+        }
+    }
+}

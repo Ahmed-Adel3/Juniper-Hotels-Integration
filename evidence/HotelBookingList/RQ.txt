@@ -1,0 +1,13 @@
+{
+    "BookingListRQ": {
+        "Version": "1.1",
+        "Language": "es",
+        "ModificationBookingDate": {
+            "Start": "2024-06-20",
+            "End": "2024-06-20"
+        },
+        "AdvancedOptions": {
+            "AllStatus": "true"
+        }
+    }
+}

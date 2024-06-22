@@ -1,0 +1,23 @@
+{
+    "HotelBookingRulesRQ": {
+        "Version": "1.1",
+        "Language": "es",
+        "HotelBookingRulesRequest": {
+            "HotelOptionRatePlanCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpwXGqxlGz1NLL18l5jcMTjlidrfDvgRFzsj8L0fURFnVd6ocaJuFoBeBxqUjjdvoUCK7ApIwL9aCwxMAfuNBOj7KSu8gJn9PUjw5lbzFIH7RADlG8VVt6W+yov9+NRk4iPxZDsJ8kRmPS6dfc75NPeNZEsd1AT0FdXFAFAkjTonNFOwxQnwNjTv+rZjg/Qz+Stdrw3qd4a/i2B8y7+yXn9YT5M9fPlB7SdFSbSysJY1L8GR81mrF/UZRdRfgAvEoxLA7IL6V0qVmSbgA//+tKm1HmJCbq9aCKBOmmc9D3e+NkgSZUjUmM7LnZle/5KqN2RVZ/FsrrL2ZID+xQYsEsV",
+            "SearchSegmentsHotels": {
+                "SearchSegmentHotels": {
+                    "Start": "2024-08-16",
+                    "End": "2024-08-19"
+                },
+                "HotelCodes": {
+                    "HotelCode": [
+                        "JP046300"
+                    ]
+                }
+            }
+        },
+        "AdvancedOptions": {
+            "UseCurrency": "USD"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "ReadRQ": {
+        "Version": "1.1",
+        "Language": "es",
+        "ReservationLocator": "S18CPG"
+    }
+}

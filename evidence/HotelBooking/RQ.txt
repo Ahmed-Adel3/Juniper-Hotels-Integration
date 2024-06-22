@@ -1,0 +1,82 @@
+{
+    "HotelBookingRQ": {
+        "Version": "1.1",
+        "Language": "es",
+        "Paxes": {
+            "Pax": [
+                {
+                    "IdPax": 1,
+                    "Age": 25,
+                    "Name": "Holder name",
+                    "Surname": "Holder Last name",
+                    "Nationality": "MX"
+                },
+                {
+                    "IdPax": 2,
+                    "Age": 25
+                },
+                {
+                    "IdPax": 3,
+                    "Age": 5
+                },
+                {
+                    "IdPax": 4,
+                    "Age": 30
+                },
+                {
+                    "IdPax": 5,
+                    "Age": 6
+                }
+            ]
+        },
+        "Holder": 1,
+        "ExternalBookingReference": "booking-json-api#1",
+        "HotelElement": {
+            "BookingCode": "ya79dM4dS6R6EywV4XhfEvBkX101lZLYIeArBVBZmmpwXGqxlGz1NLL18l5jcMTjlidrfDvgRFzsj8L0fURFnVd6ocaJuFoBeBxqUjjdvoUCK7ApIwL9aCwxMAfuNBOjIzNSp7uKIHcsvT+1Kq14LcjPmMN2w6oq7eUAPLNyeKsOCGfEGyodZ1lStAj3hmLSvkzjbMBQmnnWQ1PHv/nXG1aNFf982+RFvSsLSp/bZ3VRrfTlQaKmo5Qk71bULoQSm1zKfKrWKJVNV9rE6PtTh1H+u8a8l3S2zBeZNmoJm6x1nJSQQ1y00bE+Tg9byVqqzZDlj84maCLVnSgeHRmCsy7a18Xp2o+odYAr/ophLES4+Q0PvJa2luZ0pomfhD0wKAbz5NvAGJGH8qO7sY4pu1rIBuyOlGrZuylQ0oxWOIfzigztVw1iWpAMz/Zv9gHz",
+            "RelPaxesDist": {
+                "RelPaxDist": [
+                    {
+                        "RelPaxes": {
+                            "RelPax": [
+                                {
+                                    "IdPax": 1
+                                },
+                                {
+                                    "IdPax": 2
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "RelPaxes": {
+                            "RelPax": [
+                                {
+                                    "IdPax": 3
+                                },
+                                {
+                                    "IdPax": 4
+                                },
+                                {
+                                    "IdPax": 5
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "Start": "2024-08-16",
+                "End": "2024-08-19"
+            },
+            "Price": {
+                "Minimum": 0,
+                "Maximum": 924.46,
+                "Currency": "USD"
+            },
+            "HotelCode": "JP046300"
+        },
+        "AdvancedOptions": {
+            "UseCurrency": "USD"
+        }
+    }
+}
