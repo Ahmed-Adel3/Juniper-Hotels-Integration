@@ -77,9 +77,9 @@ v1/hotel-readbooking/
 ![Screenshot](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HotelBookingList/image.jpg)
 
 ### Logging module:
-[Error](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/ErrorHandle.jpg)
-[HotelAvailability](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelAvailability.jpg)
-[HotelBookingRules](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelBookingRules.jpg)
+- [Error](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/ErrorHandle.jpg)
+- [HotelAvailability](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelAvailability.jpg)
+- [HotelBookingRules](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelBookingRules.jpg)
 [HotelBooking](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelBooking.jpg)
 [HotelReadBooking](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelReadBooking.jpg)
 [HotelCancel](https://github.com/julifmontoya/drf-juniper-public/blob/master/evidence/HandleLogs/HotelCancel.jpg)
