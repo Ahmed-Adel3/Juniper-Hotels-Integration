@@ -12,6 +12,7 @@ The integration uses the following technologies:
 - Python Django Rest Framework (DRF): For building the backend API.
 - requests library: For making HTTP requests.
 - xmltodict: For converting XML responses from the SOAP API into JSON format.
+- python decouple: Utilized for managing project settings and environment variables.
 
 ## 4. Technical Details
 ### SOAP to REST Conversion:
