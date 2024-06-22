@@ -23,9 +23,7 @@ Key Components:
 ### Decoupled Logic:
 - The business logic is decoupled from the server, allowing for better modularization and flexibility in updating or replacing components as needed.
 
-#### Example: Using Vue.js in the Frontend
 **Frontend (Vue.js) Setup:**
-
 - Use Vue.js to build the user interface.
 - Implement components for various parts of the application (e.g., user management, reservations, packages).
 
@@ -35,7 +33,7 @@ Key Components:
 
 **Decoupling Business Logic:**
 - Implement core business logic in Vue.js components and services.
-- Use Vuex for state management to handle application state and business logic centrally.
+- Use pinia for state management to handle application state and business logic centrally.
 
 ## 4. Technologies Used
 The integration uses the following technologies:
