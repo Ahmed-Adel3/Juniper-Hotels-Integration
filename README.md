@@ -2,10 +2,10 @@
 # Juniper Api Soap Integration
 
 ## 1. Definition
-The objective of this project is to demonstrate how the JP API from Juniper was developed and integrated. The API technology is based on SOAP, and a DRF python backend was developed to transform the requests into JSON format. Due to the complexity of the integration, large sections of the code have been removed. In the evidence folder, JSON requests and responses can be found, as well as images that document the development process. Unfortunately, it is not possible to provide the complete code for free. Additionally, a logging module was developed to store every request and response. This module checks for errors and logs detailed information whenever an error is detected.
+This project involves integrating a SOAP-based API from Juniper into a backend system, with the primary objective of facilitating hotel-related operations through various endpoints. It includes a static mapping process for the hotel portfolio and a dynamic flow for booking operations. Designing a database to store hotel codes alongside their respective cities is crucial for efficient retrieval and management of hotel data.
 
 ## 2. Project Goal
-This project involves integrating a SOAP-based API from Juniper into a backend system, with the primary objective of facilitating hotel-related operations through various endpoints. It includes a static mapping process for the hotel portfolio and a dynamic flow for booking operations. Designing a database to store hotel codes alongside their respective cities is crucial for efficient retrieval and management of hotel data.
+The objective of this project is to demonstrate how the JP API from Juniper was developed and integrated. The API technology is based on SOAP, and a DRF python backend was developed to transform the requests into JSON format. Due to the complexity of the integration, large sections of the code have been removed. In the evidence folder, JSON requests and responses can be found, as well as images that document the development process. Unfortunately, it is not possible to provide the complete code for free. Additionally, a logging module was developed to store every request and response. This module checks for errors and logs detailed information whenever an error is detected.
 
 ## 3. Technologies Used
 The integration uses the following technologies:
